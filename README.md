@@ -1,2 +1,2 @@
 # RealEstatePricePrediction
-Python Programming Lecture Final Project Which Takes Data From "emlakjet.com" and Make Price Prediction for Square Meters
+Python Programming Lecture Machine Learning Final Project Which Takes Data From "emlakjet.com" and Make Price Prediction for Square Meters
